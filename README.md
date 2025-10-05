@@ -1,2 +1,3 @@
 # Final Poster
-[View Poster (PDF)](https://github.com/99Niki/UWA-Project/raw/main/UWA-Poster.pdf)
+
+![UWA-Poster](https://github.com/user-attachments/assets/6aeeb36a-c018-4718-8043-ab4896efedf2)
