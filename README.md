@@ -1,2 +1,2 @@
 # Final Poster
-[View Poster (PDF)](docs/CRSP_poster.pdf)
+[View Poster (PDF)](docs/UWA-poster.pdf)
