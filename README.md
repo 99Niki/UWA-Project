@@ -1,2 +1,2 @@
 # Final Poster
-[View Poster (PDF)](docs/UWA-poster.pdf)
+[View Poster (PDF)](docs/UWA-Poster.pdf)
